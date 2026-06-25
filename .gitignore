@@ -1,0 +1,27 @@
+# HabitTracker Backup and Export Data (Data Privacy)
+*.json
+!package.json
+!package-lock.json
+habit-tracker-dados.json
+backup_*.json
+
+# Dependencies (If evolving to Node.js/Bundlers in the future)
+node_modules/
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
