@@ -1,22 +1,22 @@
-# 📅 Minimalist Habit Tracker — 365 Days
+# 📅 YearGrid — 365-Day Minimalist Habit Tracker
 
 ![HTML5](https://img.shields.io/badge/HTML5-Semantic-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-Grid_%26_Variables-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla_ES6+-F7DF1E?logo=javascript&logoColor=black)
 ![Privacy](https://img.shields.io/badge/Privacy-100%25_Offline_localStorage-2EA043)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-38bdf8?logo=github)](https://gabzieg.github.io/HabitTrackerHTML/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-38bdf8?logo=github)](https://gabzieg.github.io/YearGrid/)
 
-**Minimalist Habit Tracker** is a zero-dependency, high-contrast web application designed to track daily consistency across a full **365-day GitHub-style heatmap**. Built with pure HTML, CSS, and Vanilla JavaScript, it runs 100% offline in your browser with instant single-click logging and portable JSON backups.
+**YearGrid** is a zero-dependency, high-contrast web application designed to track daily consistency across a full **365-day GitHub-style heatmap**. Built with pure HTML, CSS, and Vanilla JavaScript, it runs 100% offline in your browser with instant single-click logging and portable JSON backups.
 
-👉 **[Try it Live in Your Browser (GitHub Pages)](https://gabzieg.github.io/HabitTrackerHTML/)**
+👉 **[Try YearGrid Live in Your Browser (GitHub Pages)](https://gabzieg.github.io/YearGrid/)**
 
 ---
 
-## 💡 Why This Tracker?
+## 💡 Why YearGrid?
 
 Most habit trackers lock your data behind subscriptions, require account sign-ups, or bury a simple daily check-in under cluttered menus.
 
-**Minimalist Habit Tracker** strips away the friction:
+**YearGrid** strips away the friction:
 - Open the page (or save it as a bookmark / local file).
 - Log any habit in **one click**.
 - Visualize your entire year at a glance with a **GitHub contribution-style heatmap**.
@@ -38,14 +38,14 @@ Most habit trackers lock your data behind subscriptions, require account sign-up
 ## 🚀 How to Use
 
 ### Option 1: Use Instantly Online
-Visit **[https://gabzieg.github.io/HabitTrackerHTML/](https://gabzieg.github.io/HabitTrackerHTML/)** — your data stays saved in your own browser's local storage.
+Visit **[https://gabzieg.github.io/YearGrid/](https://gabzieg.github.io/YearGrid/)** — your data stays saved in your own browser's local storage.
 
 ### Option 2: Run 100% Locally Offline
 Because it has zero build steps or server dependencies, running it locally takes seconds:
 
 ```bash
-git clone https://github.com/gabzieg/HabitTrackerHTML.git
-cd HabitTrackerHTML
+git clone https://github.com/gabzieg/YearGrid.git
+cd YearGrid
 ```
 Simply double-click **`index.html`** to open it in any browser!
 
